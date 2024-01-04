@@ -7,7 +7,7 @@
 * GTPH FB Group: www.facebook.com/groups/gtphofficial
 * =================================================
 * GTPS Advertisement: www.facebook.com/groups/gtpsphilippines
-* ===== GTPJ Family ==============================
+* ===== GTPH Family ==============================
 * =================================================
 * GTPH Since 2022 and the server is back on December 26 2023
 * ==================================================
