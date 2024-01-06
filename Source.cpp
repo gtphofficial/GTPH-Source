@@ -2,14 +2,14 @@
 #include <string>
 /*
 * ===== Source Updated By GTPH Development =======
-* ===== GTPH & GTPH Email: GTPHprivates@gmail.com ======
+* ===== Pinas & GTPH Email: pinasprivates@gmail.com ======
 * =================================================
 * GTPH FB Group: www.facebook.com/groups/gtphofficial
 * =================================================
 * GTPS Advertisement: www.facebook.com/groups/gtpsphilippines
 * ===== GTPH Family ==============================
 * =================================================
-* GTPH Since 2022 and the server is back on December 26 2023
+* GTPH Since 2021 and Pinas Since 2022 and the server is back on December 26 2023
 * ==================================================
 * GTPH Private Server never ends
 */
